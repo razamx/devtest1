@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\home",
+    "\\home\\tcc",
+    "\\home\\ubuntu"
   ],
-  "SelectedNode": "\\C:\\Users\\razamx\\Source\\Repos\\devtest1",
+  "SelectedNode": "\\command.sh",
   "PreviewInSolutionExplorer": false
 }

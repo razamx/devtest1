@@ -8,5 +8,6 @@ RUN set -ex \
 RUN mkdir /sample
 WORKDIR /sample
 COPY command.sh /sample
+COPY CMakeLists.txt /sample/build
 RUN chmod +x ./command.sh
 RUN ./command.sh -x -f ./
